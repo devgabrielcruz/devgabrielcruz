@@ -1,7 +1,7 @@
 # Seja bem-vindo ao meu perfil no GitHub! 👋
 
-Meu nome é Gabriel Cruz, tenho 25 anos e atualmente moro em Recife - PE!
-Sou estudante na área de **Desenvolvimento Web** e também acadêmico do 8 período de **Sistemas de Informação** pelo Centro Universitário Maurício de Nassau - Uninassau.
+Meu nome é Gabriel Cruz, tenho 25 anos e atualmente moro em Recife - PE.
+Sou estudante de **Desenvolvimento Web**, com foto em Front-End. Também sou acadêmico do 8º período de **Sistemas de Informação** pelo Centro Universitário Maurício de Nassau - Uninassau.
 
 O perfil ainda está em fase de construção, portanto espero que gostem. :smile:
 
