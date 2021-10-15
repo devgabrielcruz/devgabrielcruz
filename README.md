@@ -5,7 +5,7 @@ Sou estudante na área de **Desenvolvimento Web** e também acadêmico do 8 per�
 
 O perfil ainda está em fase de construção, portanto espero que gostem. :smile:
 
-**Tenho conhecimento em** : <br/> 
+**Tenho conhecimento em**: <br/> 
 
 <p> 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
