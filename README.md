@@ -1,4 +1,4 @@
-# Seja bem-vindo ao meu perfil no GitHub! 👋
+# Ei, obrigado pela visita! 👋
 
 Meu nome é **Gabriel Cruz**, tenho 25 anos e moro em Recife - PE. Atualmente trabalho como **Analista de Suporte JR** na <a href="https://www.csptecnologia.com/" target="_blank" alt="CSP">**CSP Tecnologia**</a>. Sou estudante de **Desenvolvimento Web**, com foco em Front-End. Também sou acadêmico do 8º período de **Sistemas de Informação** pelo Centro Universitário Maurício de Nassau - Uninassau.
 
