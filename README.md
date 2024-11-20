@@ -42,10 +42,7 @@
 <a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
   <img title="Node.js" width="40" src="https://img.icons8.com/color/344/nodejs.png" width="48px" />
 </a> 
-  
-<a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
-  <img title="Kotlin" width="40" src="https://img.icons8.com/color/344/kotlin.png" width="48px" />
-</a> 
+
   
  <a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
   <img title="Android" width="40" src="https://img.icons8.com/fluency/512/android-os.png" width="48px" />
