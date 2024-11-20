@@ -26,9 +26,7 @@
 <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank">
   <img title="Tailwindcss" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 </a>
-<a href="https://camo.githubusercontent.com/5174ecc6e5da108f3afce948d39f9f11097c29e303fa6050c3aa3e16cc965459/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3136302f6170706c652f3139382f6e61696c2d706f6c6973685f31663438352e706e67" target="_blank">
-  <img title="Styled-components" width="40" src="https://camo.githubusercontent.com/5174ecc6e5da108f3afce948d39f9f11097c29e303fa6050c3aa3e16cc965459/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3136302f6170706c652f3139382f6e61696c2d706f6c6973685f31663438352e706e67" width="48px" />
-</a> 
+
 <a href="https://icons8.com/icon/bp24DwGXJDyT/jest-can-collect-code-coverage-information-from-entire-projects">
     <img title="Jest" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
 </a>
