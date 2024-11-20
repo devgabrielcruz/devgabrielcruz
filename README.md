@@ -9,6 +9,7 @@
 👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
 
 💬 Estou disponível para ajudar com Javascript, HTML5, CSS3.
+
 📫 Me encontre: **itsgabrielcruz@gmail.com**
   
 
