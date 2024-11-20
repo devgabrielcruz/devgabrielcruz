@@ -1,5 +1,3 @@
-<!-- <h3 align="left">Olá, eu sou o Thiago Nóbrega! <img height="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> -->
-
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Gabriel+Cruz.;Bem-vindo+ao+meu+Github!">
 
 ## Sobre mim: 
@@ -10,12 +8,7 @@
 
 👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
 
-🔭 Atualmente, trabalho como Mobile Software Engineer na XP Inc., atuando no módulo de Renda Variável do App XP Investimentos e Rico.
-
-🧠 Além das habilidades em desenvolvimento Android, Kotlin e Métodos Ágeis, tenho competências em Desenvolvimento Web que incluem: JavaScript, TypeScript, React, Redux, ContextAPI, TailwindCSS, Jest/RTL, Docker, MySQL, Node, Sequelize.
-
-💬 Estou disponível para ajudar com Javascript, React, android...
-
+💬 Estou disponível para ajudar com Javascript, HTML5, CSS3.
 📫 Me encontre: **itsgabrielcruz@gmail.com**
   
 
