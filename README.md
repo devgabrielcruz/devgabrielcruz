@@ -21,8 +21,6 @@
   <a href="https://icons8.com/icon/21278/css3" target="_blank"><img title="CSS" height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
   <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" target="_blank"><img title="JavaScript" height="40" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
   </a>
-  <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img title="React.js" width="40" src="https://img.icons8.com/officel/80/000000/react.png" width="48px" /></a>
-  <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img title="Redux" height="40" src="https://img.icons8.com/color/48/000000/redux.png" /></a>
 <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank">
   <img title="Tailwindcss" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 </a>
