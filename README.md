@@ -26,13 +26,6 @@
 <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank">
   <img title="Tailwindcss" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 </a>
-
-<a href="https://icons8.com/icon/bp24DwGXJDyT/jest-can-collect-code-coverage-information-from-entire-projects">
-    <img title="Jest" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
-</a>
-<a href="https://imgbb.com/">
-  <img title="React Testing Library" height="40" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library">
-</a>
 <a href="https://img.icons8.com/color/344/mysql-logo.png" target="_blank">
   <img title="MySql" width="40" src="https://img.icons8.com/color/344/mysql-logo.png" width="48px" />
 </a>
@@ -41,11 +34,6 @@
 </a>
 <a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
   <img title="Node.js" width="40" src="https://img.icons8.com/color/344/nodejs.png" width="48px" />
-</a> 
-
-  
- <a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
-  <img title="Android" width="40" src="https://img.icons8.com/fluency/512/android-os.png" width="48px" />
 </a> 
 </p>
    
