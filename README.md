@@ -3,14 +3,14 @@
 ## Sobre mim: 
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/> -->
-<img align="right" src="https://github.com/thiagodanobrega/thiagodanobrega/blob/main/programmer.gif?raw=true" height="250"/>
+<img align="right" src="/blob/main/programmer.gif?raw=true" height="250"/>
 
 
-👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
+👩‍💻 Atualmente trabalho na Ti.Saúde como Analista de Suporte Pleno, buscando transição de carreira. Sou formado em Sistemas de Informação pela Uninassau e possuo ampla experiência com suporte, contudo, sempre que trabalhar como desenvolvedor. Para alcançar este objetivo, tenho me dedicado aos estudos na stack front-end, onde estou adquirindo habilidades siginicantes em HTML5, CSS3, JavaScript e outros. O meu objetivo final é atuar como desenvolvedor full-stack, criando soluções acessíveis e funcionais.
 
-💬 Estou disponível para ajudar com Javascript, HTML5, CSS3.
+💬 Estou disponível para aprender e colaborar em projetos que se alinhem com os objetivos que citei anteriormente. 
 
-📫 Me encontre: **itsgabrielcruz@gmail.com**
+📫 Você pode entrar em contato comigo através deste e-mail: **itsgabrielcruz@gmail.com**
   
 
 ## Linguagens e ferramentas:
