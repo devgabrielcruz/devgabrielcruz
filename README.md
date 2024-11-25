@@ -9,7 +9,7 @@
 
 💬 Estou disponível para aprender e colaborar em projetos que se alinhem com os objetivos que citei anteriormente. 
 
-📫 Você pode entrar em contato comigo através deste e-mail: **itsgabrielcruz@gmail.com**
+📫 Você pode entrar em contato por aqui: **itsgabrielcruz@gmail.com**
   
 
 ## Linguagens e ferramentas:
