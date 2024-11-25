@@ -3,7 +3,7 @@
 ## Sobre mim: 
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/> -->
-<img align="right" src="/blob/main/programmer.gif?raw=true" height="250"/>
+<img align="right" src="[/blob/main/programmer.gif?raw=true](https://github.com/thiagodanobrega/thiagodanobrega/raw/main/programmer.gif?raw=true)" height="250"/>
 
 
 👩‍💻 Atualmente trabalho na Ti.Saúde como Analista de Suporte Pleno, buscando transição de carreira. Sou formado em Sistemas de Informação pela Uninassau e possuo ampla experiência com suporte, contudo, sempre que trabalhar como desenvolvedor. Para alcançar este objetivo, tenho me dedicado aos estudos na stack front-end, onde estou adquirindo habilidades siginicantes em HTML5, CSS3, JavaScript e outros. O meu objetivo final é atuar como desenvolvedor full-stack, criando soluções acessíveis e funcionais.
